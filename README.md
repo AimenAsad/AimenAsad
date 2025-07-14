@@ -50,6 +50,9 @@ I’m **Aimen Asad**, a Computer Science graduate from FAST-NUCES, Islamabad, pa
 **Design & Productivity:**  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+**Automation & Productivity Tools:**  
+![n8n](https://img.shields.io/badge/n8n-%2300A95C.svg?style=for-the-badge&logo=n8n&logoColor=white)  ![Zapier](https://img.shields.io/badge/Zapier-FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)  ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)  ![Make](https://img.shields.io/badge/Make-%235433D2.svg?style=for-the-badge&logo=make&logoColor=white)
+
 ---
 
 ### ✍️ Dev Quote  
