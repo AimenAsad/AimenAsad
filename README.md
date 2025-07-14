@@ -3,7 +3,7 @@ I’m **Aimen Asad**, a Computer Science graduate from FAST-NUCES, Islamabad, pa
 
 ---
 
-### 🚀 Areas of Expertise
+### Areas of Expertise
 
 #### 🤖 Machine Learning  
 - Proficient in CNNs, RNNs, Transformers, GANs, and Vision Transformers  
@@ -30,8 +30,8 @@ I’m **Aimen Asad**, a Computer Science graduate from FAST-NUCES, Islamabad, pa
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aimen-asad-536496299/)  
-- 📧 [Email](mailto:aimenasad42@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/aimen-asad-536496299/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimenasad42@gmail.com) 
 
 ---
 
